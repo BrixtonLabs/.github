@@ -38,7 +38,7 @@ New to open-source? Look for issues labeled **`good first issue`**.
 ## 💬 Join the Community
 Connect with other developers, ask questions, and stay updated on everything happening in the Brixton Labs OSS ecosystem.
 
-👉 **Join our Discord:** [https://discord.com/invite/bCMUZPjz]  
+👉 **Join our Discord:** https://discord.com/invite/bCMUZPjz
 
 We host discussions, share updates, and collaborate on new ideas. Everyone is welcome.
 
